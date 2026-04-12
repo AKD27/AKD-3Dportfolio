@@ -193,9 +193,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'ChatApp',
+        name: 'Baatcheet (ChatApp)',
         description: 'Created a full-stack replica of the popular discussion platform "Whatsapp," enabling users to post and share photos and have conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        link: 'https://chatapp-1-xdy1.onrender.com/ ',
     },
     {
         iconUrl: car,
